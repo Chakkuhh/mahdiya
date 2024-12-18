@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mahdiya/static/css/main.51f5cc44.css",
+    "main.css": "/mahdiya/static/css/main.77685ece.css",
     "main.js": "/mahdiya/static/js/main.4e838a55.js",
     "static/js/488.0966969f.chunk.js": "/mahdiya/static/js/488.0966969f.chunk.js",
     "static/media/industry1.jpg": "/mahdiya/static/media/industry1.6ac8a2eb5f96db29c74a.jpg",
@@ -29,12 +29,12 @@
     "static/media/suncity.jpg": "/mahdiya/static/media/suncity.eb0a3f2b4671ab9e7d33.jpg",
     "static/media/hvac3.jpg": "/mahdiya/static/media/hvac3.ba95ea745ed2724c63c3.jpg",
     "index.html": "/mahdiya/index.html",
-    "main.51f5cc44.css.map": "/mahdiya/static/css/main.51f5cc44.css.map",
+    "main.77685ece.css.map": "/mahdiya/static/css/main.77685ece.css.map",
     "main.4e838a55.js.map": "/mahdiya/static/js/main.4e838a55.js.map",
     "488.0966969f.chunk.js.map": "/mahdiya/static/js/488.0966969f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51f5cc44.css",
+    "static/css/main.77685ece.css",
     "static/js/main.4e838a55.js"
   ]
 }
