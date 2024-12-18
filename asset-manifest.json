@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/mahdiya/static/css/main.51f5cc44.css",
+    "main.js": "/mahdiya/static/js/main.4e838a55.js",
+    "static/js/488.0966969f.chunk.js": "/mahdiya/static/js/488.0966969f.chunk.js",
+    "static/media/industry1.jpg": "/mahdiya/static/media/industry1.6ac8a2eb5f96db29c74a.jpg",
+    "static/media/commercial4.webp": "/mahdiya/static/media/commercial4.895fbfc482409c765ed5.webp",
+    "static/media/hvac4.jpg": "/mahdiya/static/media/hvac4.a1b99b061f30c9b7315d.jpg",
+    "static/media/logo.png": "/mahdiya/static/media/logo.e153e1a449e926348197.png",
+    "static/media/hvac5.jpg": "/mahdiya/static/media/hvac5.0fde2b1bfd50fde54260.jpg",
+    "static/media/hvac6.jpg": "/mahdiya/static/media/hvac6.c163ae1b174c74848290.jpg",
+    "static/media/worker.jpg": "/mahdiya/static/media/worker.0448dd53f93e18382dc6.jpg",
+    "static/media/hvac2.jpg": "/mahdiya/static/media/hvac2.e1b61cdb320739ef2c9e.jpg",
+    "static/media/hvac1.jpg": "/mahdiya/static/media/hvac1.e424171b71bdc669f9eb.jpg",
+    "static/media/gear.jpg": "/mahdiya/static/media/gear.fd46781eb97949578c6a.jpg",
+    "static/media/commercial.jpeg": "/mahdiya/static/media/commercial.3479bfe117b0ba67fccb.jpeg",
+    "static/media/Copeland-2.jpg": "/mahdiya/static/media/Copeland-2.b0d317ebe4328d94dd5a.jpg",
+    "static/media/concorde.jpg": "/mahdiya/static/media/concorde.2d784718a76f3d0c4de1.jpg",
+    "static/media/grasso.jpg": "/mahdiya/static/media/grasso.beaf85e0f3cc610528da.jpg",
+    "static/media/Trane-1.jpg": "/mahdiya/static/media/Trane-1.63a61f9daec062d88300.jpg",
+    "static/media/Hanbell.jpg": "/mahdiya/static/media/Hanbell.08e3c5d7f397daf16e6f.jpg",
+    "static/media/commercial2.jpg": "/mahdiya/static/media/commercial2.477006c42c4530a5a3b0.jpg",
+    "static/media/Bitzer-1.jpg": "/mahdiya/static/media/Bitzer-1.832159b0581a217d379e.jpg",
+    "static/media/Mcquay.jpg": "/mahdiya/static/media/Mcquay.9e0f10664d4ae3b233a7.jpg",
+    "static/media/commercial3.jpg": "/mahdiya/static/media/commercial3.1bbd7672017cda9f2c48.jpg",
+    "static/media/York1.jpg": "/mahdiya/static/media/York1.ba01234d5dbc1ad080ec.jpg",
+    "static/media/cpalace.jpg": "/mahdiya/static/media/cpalace.ac0e022ecec64b166d13.jpg",
+    "static/media/Carrier.jpg": "/mahdiya/static/media/Carrier.a58f2e2dcbb91af9c459.jpg",
+    "static/media/suncity.jpg": "/mahdiya/static/media/suncity.eb0a3f2b4671ab9e7d33.jpg",
+    "static/media/hvac3.jpg": "/mahdiya/static/media/hvac3.ba95ea745ed2724c63c3.jpg",
+    "index.html": "/mahdiya/index.html",
+    "main.51f5cc44.css.map": "/mahdiya/static/css/main.51f5cc44.css.map",
+    "main.4e838a55.js.map": "/mahdiya/static/js/main.4e838a55.js.map",
+    "488.0966969f.chunk.js.map": "/mahdiya/static/js/488.0966969f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51f5cc44.css",
+    "static/js/main.4e838a55.js"
+  ]
+}
