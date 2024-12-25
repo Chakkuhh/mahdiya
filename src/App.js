@@ -12,7 +12,6 @@ import AirCondition from './SubFiles/AirCondition';
 import Motor from './SubFiles/Motor';
 import About from './IndexFiles/About';
 import Contact from './IndexFiles/Contact';
-import AC from './Service/AC';
 import PortFolio from './IndexFiles/PortFolio';
 
 function App() {
@@ -29,7 +28,6 @@ function App() {
       <Route path='/home/motor' element={<Motor/>}/>
       <Route path='/About' element={<About/>}/>
       <Route path='/Contact' element={<Contact/>}/>
-      <Route path='/service/ac-condition' element={<AC/>}/>
       <Route path='/portfolio' element={<PortFolio/>}/>
     </Routes>
   </Router>
